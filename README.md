@@ -10,7 +10,7 @@ You can check out the corresponding Google code lab [here](https://codelabs.deve
 # Demo
 ![Demo](https://github.com/rohan20/flutter-chat-app/blob/master/screenshots/flutter_chat_app_gif.gif)
 
-Watch the full video <a href="https://www.youtube.com/watch?v=GZuAPS48qoA">here</a>
+
 
 ## Getting Started
 **Note:** Make sure your Flutter environment is setup.
